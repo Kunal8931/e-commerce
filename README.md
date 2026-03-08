@@ -1,4 +1,4 @@
-# Qwipo
+# e-commerce
 
 Full-stack e-commerce demo with a React + Vite frontend, a Node backend (Express-style server), and a Python-based recommender/ML service.
 
